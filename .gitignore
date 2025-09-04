@@ -1,0 +1,26 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup / test HTML files
+index - Copy.html
+index1.html
+
+# Configs and cache
+prepros-6.config
+*.log
+*.tmp
+*.swp
+
+# Extra folders
+New portfolio/
+
+# IDE files
+.vscode/
+.idea/
+
+# Node / build (if ever used)
+node_modules/
+dist/
+.cache/
